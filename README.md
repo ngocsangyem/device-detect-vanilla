@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> A small plugin for device detect
+> A small plugin for device detect base on react-device-detect
 
 ### 🏠 [Homepage](https://github.com/ngocsangyem/device-detect-vanilla#readme)
 
